@@ -55,7 +55,7 @@
     "hono": "3.*"
   },
   "engines": {
-    "node": ">=18.0.0"
+    "node": ">=v18.17.1"
   },
   "prettier": "@nexterias/prettier-config"
 }
